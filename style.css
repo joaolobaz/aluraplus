@@ -76,3 +76,16 @@ body{
 .container-descricao{
     padding: 2em;
 }
+.dispositivos-lista{
+    display: flex;
+    justify-content: center;
+}
+.dispositivos{
+    text-align: center;
+    list-style-type: none;
+    margin: 5em 0;
+}
+.dispositivos-titolo{
+    font-size: 32px;
+    color: var(--branco-principal);
+}
